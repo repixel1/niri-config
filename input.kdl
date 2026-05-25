@@ -1,0 +1,22 @@
+input {
+  keyboard {
+      xkb {
+      }
+
+      numlock
+  }
+
+  touchpad {
+      // off
+      tap
+      natural-scroll
+  }
+
+  mouse {
+  }
+
+  trackpoint {
+  }
+}
+
+
